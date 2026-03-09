@@ -1,2 +1,4 @@
-# eden
-Concept in my head that I have noweher near the caapital to oexeute. 🎶
+src inspirations:
+
+- [mass transit](https://www.hustwit.com/urbanized)
+- [social mobility](https://www.youtube.com/watch?v=73YEFD89IuM
